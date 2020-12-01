@@ -28,7 +28,7 @@ ${BINARY}:
 	@${CC} ${CFLAGS} ${INCS} ${LIBS} ${CFILES} ${CONFIG} -o ${BINARY}
 
 uninstall:
-	@rm -rf ${BINARY}
+	@rm -rf ${BINARY} $(OBJ_DIR)
 	@make uninstall -sC ../libs/libcommon
 	@make uninstall -sC ../libs/libmx
 
