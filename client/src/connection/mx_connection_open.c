@@ -74,7 +74,7 @@ static void mx_send(t_connection *this,
     int buff_size = 262144;
     char *buffer = mx_strnew(buff_size);
     int size = recv(this->socket, buffer, buff_size, 0);
-    fprintf(stdout, "CLIENT: mx_send: Data received:\n%s\n", buffer);
+    //fprintf(stdout, "CLIENT: mx_send: Data received:\n%s\n", buffer);
 
     message.iov_base = buffer;
     message.iov_len = size;
