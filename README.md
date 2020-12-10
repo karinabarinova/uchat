@@ -12,22 +12,22 @@
 
 <p align="center">
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src="https://github.com/karinabarinova/uchat/client/resources/media/demo1.png?raw=true" width="350px">
+    <img src="https://github.com/karinabarinova/uchat/blob/develop/.git_images//demo1.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src="https://github.com/karinabarinova/uchat/client/resources/media/demo2.png?raw=true" width="350px">
+    <img src="https://github.com/karinabarinova/uchat/blob/develop/.git_images/demo2.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src="https://github.com/karinabarinova/uchat/client/resources/media/demo3.png?raw=true" width="350px">
+    <img src="https://github.com/karinabarinova/uchat/blob/develop/.git_images/demo3.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src="https://github.com/karinabarinova/uchat/client/resources/media/demo4.png?raw=true" width="350px">
+    <img src="https://github.com/karinabarinova/uchat/blob/develop/.git_images/demo4.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src="https://github.com/karinabarinova/uchat/client/resources/media/demo5.png?raw=true" width="350px">
+    <img src="https://github.com/karinabarinova/uchat/blob/develop/.git_images/demo5.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src="https://github.com/karinabarinova/uchat/client/resources/media/demo6.png?raw=true" width="350px">
+    <img src="https://github.com/karinabarinova/uchat/blob/develop/.git_images/demo6.png?raw=true" width="350px">
 </a>
 </p>
 
