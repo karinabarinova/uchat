@@ -22,26 +22,26 @@
 
 <p align="center">
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src=".git_images/demo1.png?raw=true" width="550px">
+    <img src=".git_images/demo1.png?raw=true" width="600px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src=".git_images/demo2.png?raw=true" width="550px">
+    <img src=".git_images/demo2.png?raw=true" width="600px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src=".git_images/demo3.png?raw=true" width="550px">
+    <img src=".git_images/demo3.png?raw=true" width="600px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src=".git_images/demo4.png?raw=true" width="550px">
+    <img src=".git_images/demo4.png?raw=true" width="600px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src=".git_images/demo5.png?raw=true" width="550px">
+    <img src=".git_images/demo5.png?raw=true" width="600px">
 </a>
 <a href="https://github.com/karinabarinova/uchat" target="_blank">
-    <img src=".git_images/demo6.png?raw=true" width="550px">
+    <img src=".git_images/demo6.png?raw=true" width="600px">
 </a>
 </p>
 
-## Author
+## Authors
 1. Karina Barinova
 2. Rostyslav Druzhchenko
 3. Nadiia Onoprienko
