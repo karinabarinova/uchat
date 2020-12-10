@@ -19,6 +19,7 @@ Messaging app for MacOS writted in C. Last challenge of the Ucode C track. App c
             <li>Light/Dark theme</li>
             <li>Changing of profile image</li>
             <li>Authentication token</li>
+            <li>Editing/Deleting messages</li>
         </ul>
 
 ## Screenshots:
