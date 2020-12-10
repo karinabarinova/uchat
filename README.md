@@ -8,6 +8,9 @@
 6. `cd` into client directory
 7. Run ./client 127.0.0.1 7766
 
+## Description: 
+Messaging app for MacOS writted in C. Last challenge of the Ucode C track. App composed of client and server part.
+
 <h2><b>The list of features which were implemented:</b></h2>
         <ul id="implement_list" type="disc">
             <li>Group channels</li>
